@@ -1,0 +1,3 @@
+[submodule "gamemodes/ZeraRacing"]
+	path = gamemodes/ZeraRacing
+	url = git@github.com:zndn1997/ZeraRacing.git

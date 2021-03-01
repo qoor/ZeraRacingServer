@@ -1,0 +1,56 @@
+<meta>
+    <info name="[DM] Rafinha V9 - The Evolution" author="Rafinha" version="1.0.4" src="[DM]RafinhaV9.map" time="0" weather="5" duration="600" />
+    <info name="[DM] DC v.10 - Fuck You All" author="DC" version="1.0.0" description="My v.10 :D" src="race-dm-dc-v10.map" time="0" weather="18" duration="600" />
+    <info name="[DM] Jackob - Vol 4 - Halo" author="Jackob" version="1.0.0" src="DMJackob_vol4_Halo.map" time="3" weather="1" duration="1800" module="Halo" />
+    <info name="[DM] MonsteR - Maximal Crazy" author="mR|MonsteR" version="1.0.0" description="Have Fun!" src="dm_monster_maximal_crazy.map" time="0" weather="0" duration="1800" />
+    <info name="[DM] SebaS V11 - Wild StyLe" author="SebaS" version="1.0" src="[DM]_SebaS_-V11-_Wild StyLe_-.map" time="0" weather="23" duration="600" />
+    <info name="[DM] SebaS V.10 - A GreaT AdventurE" author="SebaS" version="1.0.0" src="[DM]_SebaS_V10_A_GreaT_AdventurE.map" time="0" weather="0" duration="1800" />
+    <info name="[DM] DC v.8 - Relax" author="DC" version="1.0.0" description="MAP v.8 DC" src="race-dm-dc-v8.map" time="1" weather="3" duration="600" />
+    <info name="[DM] CReative - Ruffneck" author="CReative" version="1.3" src="dm_creative_ruffneck.map" time="12" weather="0" duration="1800" module="Ruffneck" />
+    <info name="[DM] FLO v5 - New Night" author="FLO" version="1.0.0" src="[dm]FLO-Newnight.map" time="0" weather="0" duration="1800" module="Newnight" />
+    <info name="[DM] SebaS v15 - Craving" author="SebaS" version="1.0" src="[DM]_SebaS_v15_Craving.map" time="3" weather="1" duration="1800" module="Craving" />
+    <info name="[DM] DC v.12 - Fuck You All II" author="DC" version="1.0.0" description="My v.12 :D" src="race-dm-dc-v12.map" time="0" weather="18" duration="600" module="FUA_II" />
+    <info name="[DM] Rafinha V7 - Luis Boss of The Traffic" author="Rafinha" version="1.0.4" src="[DM]RafinhaV7.map" time="22" weather="1" duration="600" />
+    <info name="[DM] Rafinha V8 - Black and Yellow II" author="Rafinha" version="1.0.4" src="[DM]Rafinha-VIII-BlackAndYellow-II.map" time="19" weather="0" duration="600" module="BAY_II" />
+    <info name="[DM] TulioTC Ft. Rafinha - Running is My Life III" author="TulioTC &amp; Rafinha" version="1.0.5" src="[DM]Rafinha-ft-TulioTC-Running-is-my-life-III.map" time="0" weather="5" duration="1800" />
+    <info name="[DM].::uFucK-=V6-=ShadoW" author="|ED|.::uFucK" version="1.0.0" src="[DM]uFucK_-V6-_shadow.map" time="0" weather="11" duration="1800" />
+    <info name="[DM] TulioTC Ft. Rafinha - Running Is My Life IV" author="TulioTC &amp; Rafinha" version="1.1" src="[DM]TulioTC-ft-Rafinha-Running-Is-My-Life-IV.map" time="6" weather="0" duration="1800" module="RIML_IV" />
+    <info name="[DM] FakeDeath V8 - Speed Run III." author="FakeDeath." version="1.0.0" src="[dm]map8.map" time="21" weather="11" duration="1800" />
+    <info name="[DM] DC v.16 - Fuck The Decoration" author="DC" version="1.0.0" description="My v.16 (:" src="race-dm-dc-v16.map" time="0" weather="18" duration="1800" />
+    <info name="[DM] SebaS ~V6~ SupeR SpeeD II" author="SebaS" version="1.0.5" src="race-[DM] SebaS ~V6~ SupeR SpeeD II.map" time="0" weather="18" duration="1800" />
+    <info name="[DM] FakeDeath V7 - Blackout" author="FakeDeath" version="1.0.0" src="[dm]FakeDeath-v7.map" time="5" weather="1" duration="1800" />
+    <info name="[DM] DC v.19 - Drift" author="DC" version="1.0.0" description="DRIFT EVER &lt;3" src="race-dm-dc-v19.map" time="21" weather="11" duration="600" />
+    <info name="[DM] *ArMAnI=&gt;&gt;Stereo Mexico&lt;&lt;=" author="*ArMAnI" version="1.0.0" description="mapping" src="[DM]ArMAnI-NewStylee.map" time="6" weather="17" duration="600" />
+    <info name="[DM] ArMAnI - Stereo Mexico II" author="ArMAnI" version="1.1.1" src="[dm]armani-stereomexico2.map" time="6" weather="10" duration="600" />
+    <info name="[DM] DC v.9 - Jamming II" author="DC" version="1.0.0" description="Bob Marley Owning *--* - Jamming II" src="race-dm-dc-jamming2.map" time="21" weather="17" duration="600" />
+    <info name="[DM] DC v.11 - Maximal Crazy" author="DC" version="1.0.0" description="My v.11 :D" src="race-dm-dc-v11.map" time="0" weather="17" duration="600" />
+    <info name="[DM] HTC v5. - Dubstep Island II." author="HTC" version="2.0" description="Dubstep Island II !" src="[DM]HTC_-v5_-Dubstep_-Island_-II.map" time="22" weather="5" duration="1800" module="DubIs_II" />
+    <info name="[DM] SebaS v13 - FutuRe DimensioNs" author="SebaS" version="1.0.0" description=":D" src="[DM]SebaS_v13_-_FutuRe_DimensioNs.map" time="0" weather="2" duration="3000" />
+    <info name="[DM] #Seeba -_-Vol2-_- Blank" author="#Seeba~" version="1.0.0" description="FFS TG" src="sebav2.map" time="0" weather="6" duration="1800" module="Blank" />
+    <info name="[DM] Skyress - v2 - Uncovered Dreams" author="-ffs-Skyress #fixed" version="1.0.0" description="#fixedversionaq" src="Skyressv2sonolsun.map" time="22" weather="11" duration="900" />
+    <info name="[DM]BreAkeR&quot;-&quot;v.5&quot;-&quot;^Level UP^&quot;-&quot;" author="BreAkeR" version="1.3.1" src="BreAkeRv5LeveLUP.map" time="1" weather="0" duration="1800" module="LvlUp" />
+    <info name="[DM] TulioTC - This Is My Style !" author="TulioTC" version="1.0.5" src="[DM]TulioTC-This-Is-My-Style.map" time="21" weather="0" duration="1800" />
+    <info name="[DM] DC v.18 - Relax II" author="DC" version="1.0.0" src="race-dm-dc-v18.map" time="0" weather="17" duration="600" waterkill="false" />
+    <info name="[DM] TulioTC - Crush" author="TulioTC" version="1.0.5" src="[DM]TulioTC-Crush.map" time="21" weather="6" duration="1800" />
+    <info name="[DM] AquiL - Get Rekt" author="AquiL" version="1.0.0" src="DM_AquiL-Get-Rekt.map" time="23" weather="11" duration="1800" />
+    <info name="[DM] BriaN ft. CresheZ - Pastanistan Skills" author="Track: BriaN ; Deco: CresheZ" version="1.0.0" src="DM-BriaN-CresheZ.map" time="0" weather="0" duration="1800" />
+    <info name="[DM]C3z!kA -v12- Race To Death III" author="~&gt; C3z!kA | Czk~ &lt;~" version="1.0" src="[DM]_C3zika-v12-Race_To_Death_III.map" time="0" weather="11" duration="1800" module="RTD_III" />
+    <info name="[DM]DarkyZ v3 - Sympathy" author="DarkyZ " version="1.0.0" description="kek" src="DM-DarkyZ-v3-Backup.map" time="5" weather="17" duration="1800" />
+    <info name="[DM] Gus V.1 - Energy Waves" author="~&gt;Gus&lt;~|X5|" version="1.0.0" src="race-dm-gusv1.map" time="0" weather="6" duration="900" />
+    <info name="[DM] Gus V.2 - Wild Side" author="~&gt;Gus&lt;~|X5|" version="1.0.0" src="race-dm-gusvol2.map" time="3" weather="23" duration="1800" />
+    <info name="[DM] Gus V.3 - Disregarded" author="Gus" version="1.0.0" src="race-dm-gusv3.map" time="6" weather="1" duration="480" />
+    <info name="[DM] Gus V.5 - Return Of The Nearly Dead" author="Gus" version="1.1.1" src="[DM]Gus-v5-OtherDimension.map" time="0" weather="0" duration="1800" />
+    <info name="[DM] Gus V.11 - Recess" version="1.0.0" src="Gus-v11.map" time="4" weather="4" duration="14400" />
+    <info name="[DM] Kamen - The first shit" author="Kamen" version="1.0.3" description="dmmap" src="[DM]Kamen-TheFirstShit.map" time="0" weather="0" duration="1800" module="FirstShit" />
+    <info name="[DM]lo0qebot0-_-v6_-_Mad-_-World" author="lo0qebot0" version="1.1.2" description="Get Hunter" src="[DM]lo0qebot0-_-v6_-_Mad-_-World.map" time="5" weather="17" duration="1800" module="MadWorld" />
+    <info name="[DM] Micra v12 - Russian Lullaby" author="Micra" version="1.0.0" src="[dm]micrav12-russianlullaby.map" time="6" weather="11" duration="600" module="Lullaby" />
+    <info name="[DM] Moonlight vol7 - Darkest Hour" author="Moonlight" version="1.0.0" src="[DM]Moonlightv7-Darkesthour.map" time="0" weather="12" duration="1800" module="DarkestHour" />
+    <info name="[DM] Naval ft Gus ft SymoN - Needed Skill II" author="Naval ft Gus ft SymoN" version="1.0.0" src="-[dm]-naval-gus-symon.map" time="0" weather="6" duration="1800" module="Needed_II" />
+    <info name="[DM] Pushak v1 - Crypto" author="Pushak" version="1.0.0" src="pushak-crypto.map" time="12" weather="1" duration="1800" />
+    <info name="[DM] Nexus Zera" version="1.0.0" src="nexus-zera.map" time="23" weather="6" duration="1800" />
+    <info name="[DM] norbi - Vol3 - For the lovers of speed" author="norbi#&lt;~" version="1.3.1" src="-dm-norbi-vol3-.map" time="5" weather="63" duration="1800" module="Lovers" />
+    <info name="[DM]Packy - vol.11 - .Dangerous. -" author="~&gt;Packy#" version="1.3" src="DM-Packy-_-vol11-_-Dangerous.map" time="5" weather="15" duration="1800" />
+    <info name="[DM]Rage# - Just got shrekt!"  author="UAG|Rage#" version="1.0.0" src="DM-FinalShrekt-Fixtator.map" time="0" weather="0" duration="1800" module="Shrekt" />
+    <info name="[DM] SeBaS ~V5~ SupeR SpeeD" author=".::SeBaS::." version="1.0.5" src="[DM] SeBaS ~V5~ SupeR SpeeD.map" time="0" weather="6" duration="1800" />
+    <info name="[DM]xCro-_v1-Raindrops" author="xCro" version="1.0.0" src="[DM]xCro-_v1-Raindrops.map" time="5" weather="17" duration="1800" module="RainDrps" />
+</meta>
